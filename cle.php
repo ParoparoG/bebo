@@ -10,7 +10,11 @@
 <hr>
 <center>
 <table border=5 bgcolor=pink width=50%>
-<th>CLE PT</th>
+<th><a href="Homepage.html">HOMEPAGE</a></th>
+<th><a href="tle.html">TLE</a></th>
+<th><a href="cle.html">CLE</a></th>
+<th><a href="math.html">MATH</a></th>
+<th><a href="cae.html">CAE</a></th>
 </table>
 </center>
 <hr>
